@@ -1,3 +1,5 @@
+# Moved to: https://github.com/php-api-clients/pusher
+
 # Pusher API Client for PHP 7
 
 [![Linux Build Status](https://travis-ci.org/WyriHaximus/php-pusher-client.svg?branch=master)](https://travis-ci.org/WyriHaximus/php-pusher-client)
